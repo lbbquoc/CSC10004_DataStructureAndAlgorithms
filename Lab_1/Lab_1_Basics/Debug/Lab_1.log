@@ -1,0 +1,5 @@
+﻿  Functions_lab1.cpp
+  Source.cpp
+  Generating Code...
+Q:\C++\Lab_CSC10004\Lab_1\Lab_1_Basics\Functions_lab1.cpp(154): warning C4715: 'SentinelLinearSearch': not all control paths return a value
+  Lab_1.vcxproj -> Q:\C++\Lab_CSC10004\Lab_1\Lab_1_Basics\Debug\Lab_1.exe
